@@ -1,6 +1,6 @@
 {
   "name": "snake_case",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Snake case a string",
   "main": "lib",
   "scripts": {
@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/geek/snake_case.git"
   },
-  "keywords": ["snake_case", "snake", "snek"],
+  "keywords": [
+    "snake_case",
+    "snake",
+    "snek"
+  ],
   "author": "wyatt",
   "license": "MPL-2.0",
   "bugs": {
