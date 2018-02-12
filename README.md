@@ -12,4 +12,5 @@ const snake_case = require('snake_case');
 console.log(snake_case('PickleRick'));
 console.log(snake_case('pickleRick'));
 console.log(snake_case('PICKLERick'));
+console.log(snake_case('pickle_rick'));
 ```
